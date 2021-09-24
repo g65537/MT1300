@@ -1,3 +1,4 @@
+#
 # 2021-08-19 ssr plus, passwall
 # Automatically generated file; DO NOT EDIT.
 # OpenWrt Configuration
